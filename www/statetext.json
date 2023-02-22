@@ -1,7 +1,140 @@
 {
 	"states": [
 		{
+			"id": 140,
+			"name": "Dice",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 75,
+			"name": "Soul Golem",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 44,
+			"name": "ScareCrow",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 30,
+			"name": "Tree",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 215,
+			"name": "Ruined OnaHole",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 95,
+			"name": "OnaHole",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 113,
+			"name": "Relic",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 212,
+			"name": "Succubus",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 165,
+			"name": "Magical Girl",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 8,
+			"name": "Golem",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 14,
+			"name": "Petrified",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 31,
+			"name": "Cocoon",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 76,
+			"name": "Robot",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 296,
+			"name": "Mega Slime",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 279,
+			"name": "Slime",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 73,
+			"name": "Drone",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 18,
+			"name": "Mobile Puppet",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 17,
+			"name": "Puppet",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 160,
+			"name": "Zombie",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 72,
+			"name": "Zombie",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 147,
+			"name": "Enraged",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 19,
+			"name": "Orc",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
 			"id": 144,
+			"name": "Cow",
 			"chance": 1.0,
 			"replacements": [
 				{
@@ -11,6 +144,264 @@
 					"chance": 1.0
 				}
 			]
+		},
+		{
+			"id": 118,
+			"name": "Mindbreak",
+			"chance": 1.0,
+			"replacements": []
+		},
+				{
+			"id": 34,
+			"name": "Possesed",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 149,
+			"name": "Faceless",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 142,
+			"name": "Masked II",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 141,
+			"name": "Masked",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 41,
+			"name": "Clown",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 46,
+			"name": "Entangled",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 45,
+			"name": "Bimbo",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 39,
+			"name": "Mini",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 34,
+			"name": "Possesed",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 107,
+			"name": "Possesed",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 99,
+			"name": "Soulfreeze",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 98,
+			"name": "Ignition",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 38,
+			"name": "Cursed",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 119,
+			"name": "Cheerleader",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 78,
+			"name": "Formatting",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 148,
+			"name": "Haigure Loop",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 77,
+			"name": "Haigure",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 21,
+			"name": "Stopped",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 122,
+			"name": "Denial Can't Cum",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 15,
+			"name": "Enthralled",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 51,
+			"name": "Worship",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 83,
+			"name": "Maid",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 82,
+			"name": "Maid",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 81,
+			"name": "Maid Outfit",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 37,
+			"name": "Blank",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 20,
+			"name": "Ravaged",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 16,
+			"name": "Feral",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 47,
+			"name": "Dumb",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 176,
+			"name": "Unaware",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 22,
+			"name": "Mesmerized",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 173,
+			"name": "Captured",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 25,
+			"name": "Collared",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 27,
+			"name": "Slimy",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 11,
+			"name": "Horny",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 58,
+			"name": "Giggly",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 13,
+			"name": "Aroused",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 33,
+			"name": "Pregnant",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 120,
+			"name": "Denial",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 24,
+			"name": "Collared",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 49,
+			"name": "Empowered",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 59,
+			"name": "Corruption",
+			"chance": 1.0,
+			"replacements": []
+		},
+		{
+			"id": 1,
+			"name": "Defeated",
+			"chance": 1.0,
+			"replacements": []
 		}
 	]
 }
