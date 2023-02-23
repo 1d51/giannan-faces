@@ -1,7 +1,7 @@
 /*:
  * @author 1d51
- * @version 1.0
- * @plugindesc Change an actor's speech based on their state.
+ * @version 1.0.0
+ * @plugindesc Change dialog text based on actor states
  * @help
  * ============================================================================
  * Introduction
@@ -14,7 +14,7 @@
  * present, to show the character's current image, but only if a face image would
  * have been shown. This annotation comes from YEP Message Core, so that plugin
  * is a requirement. All texts will be changed with the information provided in
- * the configuration file, unless said text
+ * the configuration file, according to the specified chance.
  */
  
 var StatusText = StatusText || {};
