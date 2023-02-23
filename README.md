@@ -1,4 +1,4 @@
-# giannan-faces
+# Giannan Faces
 A state based dynamic dialog replacer for the game Odyssey of Gianna. It uses the [State Text](https://github.com/1d51/state-text) plugin.
 
 ## Install Instructions
