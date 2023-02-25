@@ -1,0 +1,744 @@
+{
+    "states": [
+		{
+            "id": 75,
+            "name": "Soul Golem",
+			"groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 215,
+            "name": "Ruined OnaHole",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": [
+						{
+							"source": "([\\s\\S]*)",
+							"target": "\\lsv[0]............<br>\\}$1",
+							"modifiers": "",
+							"chance": 1.0
+						}
+					]
+				}
+			]
+        }, {
+            "id": 95,
+            "name": "OnaHole",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": [
+						{
+							"source": "([\\s\\S]*)",
+							"target": "\\lsv[0]............<br>\\}$1",
+							"modifiers": "",
+							"chance": 1.0
+						}
+					]
+				}
+			]
+        }, {
+            "id": 113,
+            "name": "Relic",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": [
+						{
+							"source": "([\\s\\S]*)",
+							"target": "\\lsv[0]............<br>\\}$1",
+							"modifiers": "",
+							"chance": 1.0
+						}
+					]
+				}
+			]
+        }, {
+            "id": 212,
+            "name": "Succubus",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 165,
+            "name": "Magical Girl",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 8,
+            "name": "Golem",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": [
+						{
+							"source": "([\\s\\S]*)",
+							"target": "\\lsv[0]............<br>\\}$1",
+							"modifiers": "",
+							"chance": 1.0
+						}
+					]
+				}
+			]
+        }, {
+            "id": 14,
+            "name": "Petrified",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": [
+						{
+							"source": "([\\s\\S]*)",
+							"target": "\\lsv[0]............<br>\\}$1",
+							"modifiers": "",
+							"chance": 1.0
+						}
+					]
+				}
+			]
+        }, {
+            "id": 31.0,
+            "name": "Cocoon",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": [
+						{
+							"source": "([\\s\\S]*)",
+							"target": "\\lsv[0]............<br>\\}$1",
+							"modifiers": "",
+							"chance": 1.0
+						}
+					]
+				}
+			]
+        }, {
+            "id": 76,
+            "name": "Robot",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 296,
+            "name": "Mega Slime",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 279,
+            "name": "Slime",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 73,
+            "name": "Drone",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": [
+						{
+							"source": "([\\s\\S]*)",
+							"target": "\\lsv[0]............<br>\\}$1",
+							"modifiers": "",
+							"chance": 1.0
+						}
+					]
+				}
+			]
+        }, {
+            "id": 18,
+            "name": "Mobile Puppet",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": [
+						{
+							"source": "([\\s\\S]*)",
+							"target": "\\lsv[0]............<br>\\}$1",
+							"modifiers": "",
+							"chance": 1.0
+						}
+					]
+				}
+			]
+        }, {
+            "id": 17,
+            "name": "Puppet",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": [
+						{
+							"source": "([\\s\\S]*)",
+							"target": "\\lsv[0]............<br>\\}$1",
+							"modifiers": "",
+							"chance": 1.0
+						}
+					]
+				}
+			]
+        }, {
+            "id": 160,
+            "name": "Zombie",
+            "groups": [
+				{
+					"chance": 0.5,
+					"replacements": [
+						{
+							"source": "([\\s\\S]*?)(\\.*\\?*!*)$",
+							"target": "\\lspi[130]\\lsi[4]Nnnnnuuuuhhhhmmmnnn......<br>\\}$1$2",
+							"modifiers": "",
+							"chance": 1.0
+						}
+					]
+				},
+				{
+					"chance": 1.0,
+					"replacements": [
+						{
+							"source": "([\\s\\S]*?)(\\.*\\?*!*)$",
+							"target": "\\lspi[130]\\lsi[4]Uuuuuuuhhmmmnnnnnn......<br>\\}$1$2",
+							"modifiers": "",
+							"chance": 1.0
+						}
+					]
+				}
+			]
+        }, {
+            "id": 72,
+            "name": "Zombie",
+            "groups": [
+				{
+					"chance": 0.5,
+					"replacements": [
+						{
+							"source": "([\\s\\S]*?)(\\.*\\?*!*)$",
+							"target": "\\lspi[130]\\lsi[4]Nnnnnuuuuhhhhmmmnnn......<br>\\}$1$2",
+							"modifiers": "",
+							"chance": 1.0
+						}
+					]
+				},
+				{
+					"chance": 1.0,
+					"replacements": [
+						{
+							"source": "([\\s\\S]*?)(\\.*\\?*!*)$",
+							"target": "\\lspi[130]\\lsi[4]Uuuuuuuhhmmmnnnnnn......<br>\\}$1$2",
+							"modifiers": "",
+							"chance": 1.0
+						}
+					]
+				}
+			]
+        }, {
+            "id": 147,
+            "name": "Enraged",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 19,
+            "name": "Orc",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 144,
+            "name": "Cow",
+            "groups": [
+				{
+					"chance": 0.1,
+					"replacements": [
+						{
+							"source": "([\\s\\S]*?)(\\.*\\?*!*)$",
+							"target": "\\lspi[130]Mmmmmmmuuuuooo$2<br>\\}\\lsv[0]$1$2",
+							"modifiers": "",
+							"chance": 1.0
+						}
+					]
+				},
+				{
+					"chance": 0.1,
+					"replacements": [
+						{
+							"source": "([\\s\\S]*?)(\\.*\\?*!*)$",
+							"target": "\\lspi[130]*Snort* Mmmmmooooooo$2<br>\\}\\lsv[0]$1$2",
+							"modifiers": "",
+							"chance": 1.0
+						}
+					]
+				},
+				{
+					"chance": 0.1,
+					"replacements": [
+						{
+							"source": "([\\s\\S]*?)(\\.*\\?*!*)$",
+							"target": "\\lspi[130]Mmmoooo$2 Mmmuuoooo$2<br>\\}\\lsv[0]$1$2",
+							"modifiers": "",
+							"chance": 1.0
+						}
+					]
+				},
+				{
+					"chance": 1.0,
+					"replacements": [
+						{
+							"source": "([\\s\\S]*?)(\\.*\\?*!*)$",
+							"target": "\\lspi[130]Mmmmoooooo$2<br>\\}\\lsv[0]$1$2",
+							"modifiers": "",
+							"chance": 1.0
+						}
+					]
+				}
+			]
+        }, {
+            "id": 118,
+            "name": "Mindbreak",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 149,
+            "name": "Faceless",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 142,
+            "name": "Masked II",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 141.0,
+            "name": "Masked",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 41.0,
+            "name": "Clown",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 46,
+            "name": "Entangled",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 45,
+            "name": "Bimbo",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 39,
+            "name": "Mini",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": [
+						{
+							"source": "([\\s\\S]*)",
+							"target": "\\}\\lspi[200]$1",
+							"modifiers": "",
+							"chance": 1.0
+						}
+					]
+				}
+			]
+        }, {
+            "id": 34,
+            "name": "Possesed",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": [
+						{
+							"source": "([\\s\\S]*)",
+							"target": "\\lsn<Cancel2>$1",
+							"modifiers": "",
+							"chance": 1.0
+						}
+					]
+				}
+			]
+        }, {
+            "id": 107,
+            "name": "Possesed",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": [
+						{
+							"source": "([\\s\\S]*)",
+							"target": "\\lsn<Cancel2>$1",
+							"modifiers": "",
+							"chance": 1.0
+						}
+					]
+				}
+			]
+        }, {
+            "id": 99,
+            "name": "Soulfreeze",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 98,
+            "name": "Ignition",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 38,
+            "name": "Cursed",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 119,
+            "name": "Cheerleader",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 78,
+            "name": "Formatting",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 148,
+            "name": "Haigure Loop",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": [
+						{
+							"source": "([\\s\\S]*)",
+							"target": "HAIGURE~! ♥ HAIGURE~! ♥ HAIGURE~! ♥ HAIGURE~! ♥<br>\\}$1",
+							"modifiers": "",
+							"chance": 1.0
+						}
+					]
+				}
+			]
+        }, {
+            "id": 77,
+            "name": "Haigure",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": [
+						{
+							"source": "([^ ]+)([ ]+)",
+							"target": "$1$2Haigure~ ",
+							"modifiers": "g",
+							"chance": 1.0
+						}
+					]
+				}
+			]
+        }, {
+            "id": 21.0,
+            "name": "Stopped",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": [
+						{
+							"source": "([\\s\\S]*)",
+							"target": "\\lsv[0]............<br>\\}$1",
+							"modifiers": "",
+							"chance": 1.0
+						}
+					]
+				}
+			]
+        }, {
+            "id": 122,
+            "name": "Denial Can't Cum",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 15,
+            "name": "Enthralled",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 51.0,
+            "name": "Worship",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 83,
+            "name": "Maid",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 82,
+            "name": "Maid",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 81.0,
+            "name": "Maid Outfit",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 37,
+            "name": "Blank",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 20,
+            "name": "Ravaged",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 16,
+            "name": "Feral",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 47,
+            "name": "Dumb",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 176,
+            "name": "Unaware",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 22,
+            "name": "Mesmerized",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 173,
+            "name": "Captured",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 25,
+            "name": "Collared",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 27,
+            "name": "Slimy",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 11.0,
+            "name": "Horny",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 58,
+            "name": "Giggly",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 13,
+            "name": "Aroused",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 33,
+            "name": "Pregnant",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 120,
+            "name": "Denial",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 24,
+            "name": "Collared",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 49,
+            "name": "Empowered",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 59,
+            "name": "Corruption",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }, {
+            "id": 1.0,
+            "name": "Defeated",
+            "groups": [
+				{
+					"chance": 1.0,
+					"replacements": []
+				}
+			]
+        }
+    ]
+}
